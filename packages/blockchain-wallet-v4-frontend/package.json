@@ -78,7 +78,7 @@
     "bitcoinforksjs-lib":
       "git://github.com/blockchain/bitcoinjs-lib.git#opt-in-bitcoincash-sighash",
     "bitcoinjs-lib": "3.1.1",
-    "blockchain-info-components": "0.0.31",
+    "blockchain-info-components": "0.0.32",
     "blockchain-wallet-v4": "1.0.1",
     "bowser": "1.9.3",
     "browser-locale": "1.0.3",
@@ -94,14 +94,14 @@
     "matchmedia-polyfill": "0.3.1",
     "moment": "2.22.2",
     "postal-codes-js": "^1.0.0",
-    "prop-types": "15.6.1",
+    "prop-types": "15.6.2",
     "qrcode.react": "0.8.0",
     "ramda": "0.25.0",
-    "react": "16.4.0",
+    "react": "16.5.0",
     "react-animations": "1.0.0",
     "react-copy-to-clipboard": "5.0.1",
     "react-csv": "1.0.14",
-    "react-dom": "16.4.0",
+    "react-dom": "16.5.0",
     "react-dropzone": "4.2.11",
     "react-highcharts": "16.0.2",
     "react-intl": "2.4.0",
@@ -122,8 +122,8 @@
     "redux-saga": "0.16.0",
     "redux-ui": "0.1.1",
     "reselect": "3.0.1",
-    "sanitize-html": "1.18.2",
-    "styled-components": "3.3.2",
+    "sanitize-html": "2.0.0",
+    "styled-components": "4.0.0",
     "zxcvbn": "4.4.2"
   }
 }
